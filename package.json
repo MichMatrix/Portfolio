@@ -8,8 +8,7 @@
     "dev": "vite",
     "preview": "vite preview",
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist",
-    "build": "npm install --legacy-peer-deps && your-other-build-commands"
+    "deploy":"gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",

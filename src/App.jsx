@@ -9,9 +9,9 @@ const App = () => {
           <Navbar />
         </div>
         <Routes>
-          <Route path="/thank-you" element={<div className="relative my-1"><ThankYou /> <StarsCanvas />
+          <Route path="/Portfolio/thank-you" element={<div className="relative my-1"><ThankYou /> <StarsCanvas />
             </div>} />
-          <Route path="/" element={<div>
+          <Route path="/Portfolio/" element={<div>
             <Hero />
             <About />
             <Experience />
