@@ -20,6 +20,32 @@ This project serves as an excellent way to practice and enhance my skills in web
 
 Visit the live portfolio: [Michel Adelino Portfolio](https://michmatrix.github.io/Portfolio/)
 
+## Installation and Environment Setup
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/MichMatrix/Portfolio.git
+
+Navigate to the project directory:
+
+```bash
+2. Copy code
+`cd Portfolio`
+Install dependencies using npm:
+
+bash
+3. Copy code
+`npm install`
+Start the development server:
+
+4. bash
+Copy code
+`npm run dev`
+This will launch the project locally, and you can access it in your browser at http://localhost:3000.
+
 ## Author
 
 **Michel Adelino**
