@@ -1,14 +1,25 @@
-##Introduction
+# Portfolio Project with React and Vite
 
-This is my portifolio project.
+## Introduction
 
-##Development
+This repository contains my portfolio project, showcasing my skills and projects using React and Vite.
 
-I could learn about React with Vite, Three.js, use of Tailwind. An excellent way to practice and get new skills.
+## Development
 
-##Live
-Link: https://michmatrix.github.io/Portfolio/
+In this project, I had the opportunity to learn and apply the following technologies and concepts:
 
-##Author
+- **React with Vite:** The project is built using React with Vite, providing a fast and efficient development environment.
 
-Michel Adelino
+- **Three.js:** Three.js is used for 3D graphics to enhance the visual appeal of the portfolio.
+
+- **Tailwind CSS:** The project utilizes Tailwind CSS for styling, allowing for rapid and responsive design.
+
+This project serves as an excellent way to practice and enhance my skills in web development.
+
+## Live Link
+
+Visit the live portfolio: [Michel Adelino Portfolio](https://michmatrix.github.io/Portfolio/)
+
+## Author
+
+**Michel Adelino**
