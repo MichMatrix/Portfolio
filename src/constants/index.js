@@ -152,6 +152,14 @@ const testimonials = [
     company: "Chingu",
     image: "https://media.licdn.com/dms/image/C4D03AQFSQvGEhUt4eg/profile-displayphoto-shrink_800_800/0/1646085141788?e=1705536000&v=beta&t=hKuEcZe4Nm8Vy_l17ZYLlXpePc7zwqa5kqA6zN3IRr8",
   },
+  {
+    testimonial:
+      "During the research and innovation project with the TNS Latam in collaboration with the LaSER Laboratory at the Federal University of Paraíba, I had the privilege to work with Michel. Michel is a dedicated professional. He is always willing to accept and give suggestions and help your professional colleagues. Your technical collaboration in our team was fundamental to the good progress of the project. In addition to your technical skills, Michel was able to adapt to different characteristics of your colleagues. This adaptability provided a nice work atmosphere. Thus, I recommend Michel because the good experience and because the good knowledge exchange that I had with him during the time in the project. Your technical abilities and personal skills are extremely useful in any company or project.",
+    name: "Thiago Marques",
+    designation: "Innovation Research Fellow",
+    company: "TNS LATAM",
+    image: "https://media.licdn.com/dms/image/C5603AQEXrYpYdSaK0A/profile-displayphoto-shrink_100_100/0/1636407516456?e=1706745600&v=beta&t=C-9uuszQ_YsHzRUkV3BUBz4V2g3GQDWwyED2svq6r4Q",
+  },
 ];
 
 const projects = [
